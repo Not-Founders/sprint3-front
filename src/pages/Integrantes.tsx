@@ -92,7 +92,7 @@ const Integrantes: React.FC = () => {
                 <img
                   className="w-32 h-32 object-cover rounded-full mx-auto border-4 border-white shadow-md"
                   src={member.image}
-                  alt={Foto de perfil de ${member.name}}
+                  alt={`Foto de perfil de ${member.name}`}
                 />
               </div>
 

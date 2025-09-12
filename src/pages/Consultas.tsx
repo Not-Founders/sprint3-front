@@ -63,5 +63,3 @@ const Consultas: React.FC = () => {
 };
 
 export default Consultas;
-
-Cadastro.tsx
